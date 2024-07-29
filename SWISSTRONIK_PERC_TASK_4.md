@@ -58,7 +58,7 @@ Open the file to edit:
 nano .env
 ```
 Replace PRIVATE_KEY=input here with your private key. 🔑
-it should look like this PRIVATE_KEY=237484885884992929jrj44n54
+it should look like this PRIVATE_KEY=237484885884992929jrj44n54 delete those stuff written in front of it.
 To save, press Ctrl + X, then Y, then Enter. ✅
 
 **5️⃣ Install Dependencies**
